@@ -1,0 +1,14 @@
+{
+  "name": "4-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "s2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
